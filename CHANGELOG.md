@@ -1,3 +1,7 @@
+# v4.0.1 (Jan 5, 2021)
+
+ * chore: Updated dependencies.
+
 # v4.0.0 (Dec 1, 2020)
 
  * BREAKING CHANGE: Bumped minimum required Node.js version from v8.12.0 to v10.13.0.
